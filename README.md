@@ -15,13 +15,13 @@ use Apache, Postgres, and some other things that are yet undetermined.
 
 ## Reference Docs
 
-Remove [`sudo: unable to resolve host`](http://askubuntu.com/questions/59458/error-message-when-i-run-sudo-unable-to-resolve-host-none)
-[Disable `root` ssh](http://www.howtogeek.com/howto/linux/security-tip-disable-root-ssh-login-on-linux/)
-[Change SSH Port](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)
-[fail2ban](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)
-[Cron-apt](https://help.ubuntu.com/community/AutoWeeklyUpdateHowTo)
-[UTC](http://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt)
-[PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)
+[Remove `sudo: unable to resolve host`](http://askubuntu.com/questions/59458/error-message-when-i-run-sudo-unable-to-resolve-host-none)  
+[Disable `root` ssh](http://www.howtogeek.com/howto/linux/security-tip-disable-root-ssh-login-on-linux/)  
+[Change SSH Port](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)  
+[fail2ban](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)  
+[Cron-apt](https://help.ubuntu.com/community/AutoWeeklyUpdateHowTo)  
+[UTC](http://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt)  
+[PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)  
 
 ## Complete Checklist
 
