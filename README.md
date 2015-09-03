@@ -9,9 +9,15 @@ use Apache, Postgres, and some other things that are yet undetermined.
 
 ## URL to Catalog App
 
-`soon`
+http://ec2-52-88-32-23.us-west-2.compute.amazonaws.com
 
 ## Installed Software
+
+Cron-apt - automatic system updating  
+Apache & mod_WSGI - HTTP Server for a Flask App  
+PostgreSQL - database  
+Glances - Real time performance monitoring  
+Monit - Automated system monitoring
 
 ## Reference Docs
 
@@ -22,6 +28,11 @@ use Apache, Postgres, and some other things that are yet undetermined.
 [Cron-apt](https://help.ubuntu.com/community/AutoWeeklyUpdateHowTo)  
 [UTC](http://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt)  
 [PostgreSQL](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)  
+[Apache2 could not reliably determine](http://askubuntu.com/questions/256013/could-not-reliably-determine-the-servers-fully-qualified-domain-name)  
+[Monit](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-monit)  
+[Monit Status](http://stackoverflow.com/questions/28187786/monit-daemon-error-connecting-to-the-monit-daemon)  
+[Monit - Where is the .pid?](http://serverfault.com/questions/395413/cant-get-monit-to-work)    
+
 
 ## Complete Checklist
 
@@ -40,6 +51,10 @@ use Apache, Postgres, and some other things that are yet undetermined.
 * Installed Cron-apt to automatically manage package updates.
 * Server on UTC
 * Installed Apache2 and Apache2 Mod_WSGI lib.
+* Installed and configured PostgreSQL.
+* Deployed Catalog App
+* Installed Glances
+* Installed Monit
 
 ## Authors
 
