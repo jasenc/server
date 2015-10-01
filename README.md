@@ -1,7 +1,8 @@
 # Server
 
-I am currently developing my own server to host my Catalog App. This server will
-use Apache, Postgres, and some other things that are yet undetermined.
+I developed my own server to host my Catalog App. This server used Apache, Postgres, and some other technologies listed below.
+
+Note: Since graduating from Udacity's Nanodegree program the server has been shut down. However I am leaving this on my GitHub as notes to configure the next one.
 
 ## IP Address
 
